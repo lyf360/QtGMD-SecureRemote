@@ -1,0 +1,15 @@
+smartgateway\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+smartgateway\event_groups.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdlib.h
+smartgateway\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+smartgateway\event_groups.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stddef.h
+smartgateway\event_groups.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdint.h
+smartgateway\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+smartgateway\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+smartgateway\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+smartgateway\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+smartgateway\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+smartgateway\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+smartgateway\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+smartgateway\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+smartgateway\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+smartgateway\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

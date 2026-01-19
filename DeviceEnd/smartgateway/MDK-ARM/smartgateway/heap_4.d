@@ -1,0 +1,13 @@
+smartgateway\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+smartgateway\heap_4.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdlib.h
+smartgateway\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+smartgateway\heap_4.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stddef.h
+smartgateway\heap_4.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdint.h
+smartgateway\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+smartgateway\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+smartgateway\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+smartgateway\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+smartgateway\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+smartgateway\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+smartgateway\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+smartgateway\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

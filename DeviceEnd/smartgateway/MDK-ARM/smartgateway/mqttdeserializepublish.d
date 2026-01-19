@@ -1,0 +1,11 @@
+smartgateway\mqttdeserializepublish.o: ..\MQTTPacket\src\MQTTDeserializePublish.c
+smartgateway\mqttdeserializepublish.o: ..\MQTTPacket\src\StackTrace.h
+smartgateway\mqttdeserializepublish.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdio.h
+smartgateway\mqttdeserializepublish.o: ..\MQTTPacket\src\MQTTPacket.h
+smartgateway\mqttdeserializepublish.o: ..\MQTTPacket\src\MQTTConnect.h
+smartgateway\mqttdeserializepublish.o: ..\MQTTPacket\src\MQTTPublish.h
+smartgateway\mqttdeserializepublish.o: ..\MQTTPacket\src\MQTTSubscribe.h
+smartgateway\mqttdeserializepublish.o: ..\MQTTPacket\src\MQTTUnsubscribe.h
+smartgateway\mqttdeserializepublish.o: ..\MQTTPacket\src\MQTTFormat.h
+smartgateway\mqttdeserializepublish.o: ..\MQTTPacket\src\MQTTPacket.h
+smartgateway\mqttdeserializepublish.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\string.h

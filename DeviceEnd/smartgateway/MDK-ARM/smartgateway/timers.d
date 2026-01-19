@@ -1,0 +1,15 @@
+smartgateway\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+smartgateway\timers.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdlib.h
+smartgateway\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+smartgateway\timers.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stddef.h
+smartgateway\timers.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdint.h
+smartgateway\timers.o: ../Core/Inc/FreeRTOSConfig.h
+smartgateway\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+smartgateway\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+smartgateway\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+smartgateway\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+smartgateway\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+smartgateway\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+smartgateway\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+smartgateway\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+smartgateway\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

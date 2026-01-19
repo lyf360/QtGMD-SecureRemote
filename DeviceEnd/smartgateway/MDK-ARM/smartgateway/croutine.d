@@ -1,0 +1,14 @@
+smartgateway\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+smartgateway\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+smartgateway\croutine.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stddef.h
+smartgateway\croutine.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdint.h
+smartgateway\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+smartgateway\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+smartgateway\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+smartgateway\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+smartgateway\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+smartgateway\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+smartgateway\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+smartgateway\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+smartgateway\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+smartgateway\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

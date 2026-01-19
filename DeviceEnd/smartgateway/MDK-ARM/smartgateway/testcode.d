@@ -1,0 +1,13 @@
+smartgateway\testcode.o: ..\mycode\testcode\testcode.c
+smartgateway\testcode.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+smartgateway\testcode.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stddef.h
+smartgateway\testcode.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdint.h
+smartgateway\testcode.o: ../Core/Inc/FreeRTOSConfig.h
+smartgateway\testcode.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+smartgateway\testcode.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+smartgateway\testcode.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+smartgateway\testcode.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+smartgateway\testcode.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+smartgateway\testcode.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+smartgateway\testcode.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+smartgateway\testcode.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdio.h

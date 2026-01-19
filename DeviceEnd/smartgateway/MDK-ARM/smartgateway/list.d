@@ -1,0 +1,12 @@
+smartgateway\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+smartgateway\list.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdlib.h
+smartgateway\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+smartgateway\list.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stddef.h
+smartgateway\list.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdint.h
+smartgateway\list.o: ../Core/Inc/FreeRTOSConfig.h
+smartgateway\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+smartgateway\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+smartgateway\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+smartgateway\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+smartgateway\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+smartgateway\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

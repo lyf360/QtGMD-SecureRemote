@@ -1,0 +1,10 @@
+smartgateway\cjson.o: ..\Jsonparse\cJSON.c
+smartgateway\cjson.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\string.h
+smartgateway\cjson.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdio.h
+smartgateway\cjson.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\math.h
+smartgateway\cjson.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdlib.h
+smartgateway\cjson.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\limits.h
+smartgateway\cjson.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\ctype.h
+smartgateway\cjson.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\float.h
+smartgateway\cjson.o: ..\Jsonparse\cJSON.h
+smartgateway\cjson.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stddef.h

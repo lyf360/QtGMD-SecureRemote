@@ -1,0 +1,11 @@
+smartgateway\mqttunsubscribeclient.o: ..\MQTTPacket\src\MQTTUnsubscribeClient.c
+smartgateway\mqttunsubscribeclient.o: ..\MQTTPacket\src\MQTTPacket.h
+smartgateway\mqttunsubscribeclient.o: ..\MQTTPacket\src\MQTTConnect.h
+smartgateway\mqttunsubscribeclient.o: ..\MQTTPacket\src\MQTTPublish.h
+smartgateway\mqttunsubscribeclient.o: ..\MQTTPacket\src\MQTTSubscribe.h
+smartgateway\mqttunsubscribeclient.o: ..\MQTTPacket\src\MQTTUnsubscribe.h
+smartgateway\mqttunsubscribeclient.o: ..\MQTTPacket\src\MQTTFormat.h
+smartgateway\mqttunsubscribeclient.o: ..\MQTTPacket\src\StackTrace.h
+smartgateway\mqttunsubscribeclient.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\stdio.h
+smartgateway\mqttunsubscribeclient.o: ..\MQTTPacket\src\MQTTPacket.h
+smartgateway\mqttunsubscribeclient.o: D:\stm32keil\keil\ARM\ARMcom506\Bin\..\include\string.h
