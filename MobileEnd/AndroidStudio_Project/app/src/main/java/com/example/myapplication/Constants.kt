@@ -11,8 +11,8 @@ object Constants {
 
 
     // 新增：MQTT认证信息（从Connection Details获取）
-    const val MQTT_USERNAME = "xjrdqaaw:xjrdqaaw"
-    const val MQTT_PASSWORD = "tqGudw_cSIJj5mSMrAdL7XwwdIiRv1D2"
+    const val MQTT_USERNAME = "xxxxxxxxxxxxxxx"
+    const val MQTT_PASSWORD = "xxxxxxxxxxxxxxx"
 
     // 温湿度阈值宏定义（可根据需求修改）
     const val TEMPERATURE_THRESHOLD = 30.0 // 温度阈值：30℃

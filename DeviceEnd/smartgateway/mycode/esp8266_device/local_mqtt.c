@@ -183,8 +183,8 @@ int mqtt_connect(char* peerip,char* peerport)
 	data.username.cstring = NULL;
 	data.password.cstring = NULL;
 	#else
-	data.username.cstring = "xjrdqaaw:xjrdqaaw";  // 你的 MQTT 用户名
-	data.password.cstring = "tqGudw_cSIJj5mSMrAdL7XwwdIiRv1D2";  // 你的 MQTT 密码
+	data.username.cstring = "xxxxxxxxxxxxxxxxxx";  // 你的 MQTT 用户名
+	data.password.cstring = "xxxxxxxxxxxxxxxxxx";  // 你的 MQTT 密码
 	#endif
 	
 	data.MQTTVersion = 3;
