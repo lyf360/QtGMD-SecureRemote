@@ -12,7 +12,7 @@
 |--------------|----------------------------------------|-----------------------------|
 | 网关端       | Qt（C++）、指纹识别 SDK                | MQTT、JSON、密码/指纹验证   |
 | 移动端       | Android Studio（Java/Kotlin）          | MQTT、JSON                  |
-| 设备端       | ESP8266、Arduino 开发环境              | MQTT、JSON、Modbus、消息队列|
+| 设备端       | ESP8266、Keil 开发环境                | MQTT、JSON、Modbus、消息队列|
 | 通用         | Git、MQTT 服务器（EMQ/X/阿里云 IoT）   | -                           |
 
 ## 🏗 项目架构
